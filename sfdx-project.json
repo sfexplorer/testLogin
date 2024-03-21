@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "test login",
+  "namespace": "",
+  "sfdcLoginUrl": "https://uniquecompinc6-dev-ed.develop.my.salesforce.com",
+  "sourceApiVersion": "59.0"
+}
